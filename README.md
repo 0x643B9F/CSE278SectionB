@@ -1,10 +1,3 @@
-# CSE278SectionB
-This is a demo For Section B
+# CSE278SectionB Readme
 
-
-
-This is the modification from the CEC server.
-
-Modified on the website.
-
-Hello again, I'm pushing this from Linux on the CEC Server!
+This is a directory used to hold my CSE278 Labs/Programs.
