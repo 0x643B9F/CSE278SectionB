@@ -1,0 +1,25 @@
+#include<iostream>
+#include<string>
+
+
+
+int main(int argc, char** argv) {
+	std::string username = "21_cse_c++_fall";
+	std::string password = "278A&B";
+	std::string user_input = "";
+	std::string pass_input = "";
+
+	std::cout << "Please enter the username: ";
+	std::cin >> user_input;
+	std::cout << "Please enter the password: ";
+	std::cin >> pass_input;
+
+	
+
+	if((username == user_input) && (password == pass_input)) {
+		std::cout << "Login sucessful!\n";
+	} else {
+		std::cout << "Login attempt failed.\n";
+	}
+
+}
